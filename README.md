@@ -25,7 +25,3 @@ The finished code is checked by W3C and PagesSpeed services.👨‍🎨
 - 📫 if you have any questions you can write to me at gornichev1986@gmail.com.
 
 
-**Gornichev/Gornichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
