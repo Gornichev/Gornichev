@@ -5,10 +5,14 @@ I'm Yurii Gornichev
 Web Developer and Html Coder from 
 Ukraine, Kiev.
 
-A few words About Me
-Сreative Web developer, HTML coder and I'm very passionate and dedicated to my work.
+A few words About Me:
+
+Сreative Web developer, 
+HTML coder and I'm very passionate and dedicated to my work.
+
 Welcome to My Profile!
-I was born and raised in Kyiv. Studied at the National Aviation University and have a master's degree.
+I was born and raised in Kyiv. 
+Studied at the National Aviation University and have a master's degree.
 
 I'll tell you a few words about the technology of my coding:
 For writing I use the program Php Storm.
