@@ -6,7 +6,7 @@ Web Developer and Html Coder from
 Ukraine, Kiev.
 
 
-I was born and raised in Kyiv. 
+I was born and raised in Kyiv.⚡
 Studied at the National Aviation University and have a master's degree.
 
 I'll tell you a few words about the technology of my coding:
