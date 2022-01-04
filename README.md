@@ -24,9 +24,7 @@ The finished code is checked by W3C and PagesSpeed services.👨‍🎨
 - 🌱 I study under the guidance of a personal tutor + video tutorials and technical literature to improve my web skills
 - 📫 if you have any questions you can write to me at gornichev1986@gmail.com.
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
-<!--
 **Gornichev/Gornichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
