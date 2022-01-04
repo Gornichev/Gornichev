@@ -3,7 +3,7 @@
 I'm Yurii Gornichev
 
 Web Developer and Html Coder from 
-Ukraine, Kiev.
+Ukraine.
 
 
 I was born and raised in Kyiv.⚡
