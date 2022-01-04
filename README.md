@@ -11,6 +11,7 @@ A few words About Me:
 HTML coder and I'm very passionate and dedicated to my work.
 
 Welcome to My Profile!
+
 I was born and raised in Kyiv. 
 Studied at the National Aviation University and have a master's degree.
 
