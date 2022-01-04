@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yurii Gornichev‼️
+I'm Yurii Gornichev.
 
 Web Developer and Html Coder from 
 Ukraine.
