@@ -10,6 +10,7 @@ I was born and raised in Kyiv.
 Studied at the National Aviation University and have a master's degree.
 
 I'll tell you a few words about the technology of my coding:
+
 For writing I use the program Php Storm.
 For styling I use the Saas processor.
 For perfect display of the layout I take Perfect Pixel.
