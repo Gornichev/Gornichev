@@ -23,7 +23,7 @@ The finished code is checked by W3C and PagesSpeed services.
 - 🔭  I’m currently working on creating an online clothing store for surfing and other water sports. "Wave Garmony"
 - 🌱 I study under the guidance of a personal tutor + video tutorials and technical literature to improve my web skills
 - 📫 if you have any questions you can write to me at gornichev1986@gmail.com.
--->
+
 
 <!--
 **Gornichev/Gornichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
